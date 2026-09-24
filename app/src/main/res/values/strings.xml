@@ -1,4 +1,0 @@
-<resources>
-<string name="app_name">Affordability</string>
-<string name="accessibility_description">Reads visible checkout text in Swiggy and Blinkit to estimate the order total.</string>
-</resources>
